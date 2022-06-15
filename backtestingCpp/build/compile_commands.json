@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/build",
+  "command": "/usr/bin/clang++ -Dbacktesting_EXPORTS -I/usr/local/include -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -std=gnu++17 -o CMakeFiles/backtesting.dir/main.cpp.o -c /Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/main.cpp",
+  "file": "/Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/main.cpp"
+},
+{
+  "directory": "/Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/build",
+  "command": "/usr/bin/clang++ -Dbacktesting_EXPORTS -I/usr/local/include -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -std=gnu++17 -o CMakeFiles/backtesting.dir/Database.cpp.o -c /Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/Database.cpp",
+  "file": "/Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/Database.cpp"
+},
+{
+  "directory": "/Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/build",
+  "command": "/usr/bin/clang++ -Dbacktesting_EXPORTS -I/usr/local/include -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -std=gnu++17 -o CMakeFiles/backtesting.dir/Utils.cpp.o -c /Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/Utils.cpp",
+  "file": "/Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/Utils.cpp"
+},
+{
+  "directory": "/Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/build",
+  "command": "/usr/bin/clang++ -Dbacktesting_EXPORTS -I/usr/local/include -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -std=gnu++17 -o CMakeFiles/backtesting.dir/strategies/Sma.cpp.o -c /Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/strategies/Sma.cpp",
+  "file": "/Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/strategies/Sma.cpp"
+},
+{
+  "directory": "/Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/build",
+  "command": "/usr/bin/clang++ -Dbacktesting_EXPORTS -I/usr/local/include -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -std=gnu++17 -o CMakeFiles/backtesting.dir/strategies/Psar.cpp.o -c /Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/strategies/Psar.cpp",
+  "file": "/Users/joshuastevenson/Desktop/Machine-Learning/trading/Cleopatra/Backtests/backtestingCpp/strategies/Psar.cpp"
+}
+]

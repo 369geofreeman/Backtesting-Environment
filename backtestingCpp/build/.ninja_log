@@ -1,0 +1,15 @@
+# ninja log v5
+1568	3254	1639494565187306395	backtesting	7ee056c595d8d793
+5	1568	1639494563496867744	CMakeFiles/backtesting.dir/strategies/Psar.cpp.o	171801565fd6fc0f
+13	14388	1639494480828314541	CMakeFiles/backtesting.dir/main.cpp.o	48fe4c72397aff03
+47	33084	1639491039560869067	CMakeFiles/backtesting.dir/strategies/Sma.cpp.o	3035a7c62fca20bd
+47	32002	1639491038476888141	CMakeFiles/backtesting.dir/Utils.cpp.o	cc977a6c010d932
+5	7188	1639410132894137001	CMakeFiles/backtesting.dir/Database.cpp.o	69ea5cc2630d0b34
+7	7935	1639498019004379320	CMakeFiles/backtesting.dir/main.cpp.o	42642ae564ce67ae
+8	7936	1639498019004274587	CMakeFiles/backtesting.dir/Database.cpp.o	d1584843f02b48f8
+8	7936	1639498019005234179	CMakeFiles/backtesting.dir/strategies/Sma.cpp.o	6a03412514b183b0
+8	7937	1639498019017850267	CMakeFiles/backtesting.dir/Utils.cpp.o	65e79e83539a0b50
+8	7937	1639498019004320658	CMakeFiles/backtesting.dir/strategies/Psar.cpp.o	86abcf8237953086
+7937	8775	1639498020030577376	libbacktesting.dylib	ff9490961f76bce
+3	1044	1639498138482213193	CMakeFiles/backtesting.dir/Utils.cpp.o	65e79e83539a0b50
+1044	1743	1639498139182883034	libbacktesting.dylib	ff9490961f76bce
